@@ -1,4 +1,4 @@
-# Cardiovascular-Disease-Classifier-using-Logistic-Regression
+# Cardiovascular-Disease-Classification-using-Logistic-Regression
 In this project we have done the following steps to classify the Cardiovascular Disease
 - We use the dataset from UCI website
 - Exploratory Data Analysis
